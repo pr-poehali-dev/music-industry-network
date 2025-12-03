@@ -120,7 +120,7 @@ const Index = () => {
               <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center animate-glow">
                 <Icon name="Music" size={24} className="text-white" />
               </div>
-              <h1 className="text-2xl font-bold glow-text">MusicConnect</h1>
+              <h1 className="text-2xl font-bold glow-text">aka</h1>
             </div>
             
             <div className="hidden md:flex items-center space-x-6">
@@ -421,7 +421,7 @@ const Index = () => {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center">
               <Icon name="Music" size={20} className="text-white" />
             </div>
-            <span className="text-xl font-bold glow-text">MusicConnect</span>
+            <span className="text-xl font-bold glow-text">aka</span>
           </div>
           <p className="text-muted-foreground">
             Платформа для профессионалов музыкальной индустрии

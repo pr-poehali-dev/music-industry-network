@@ -94,8 +94,8 @@ export default {
 					'100%': { opacity: '1', transform: 'translateY(0)' }
 				},
 				'glow': {
-					'0%, 100%': { boxShadow: '0 0 20px rgba(155, 135, 245, 0.3)' },
-					'50%': { boxShadow: '0 0 40px rgba(155, 135, 245, 0.6)' }
+					'0%, 100%': { boxShadow: '0 0 20px rgba(249, 115, 22, 0.3)' },
+					'50%': { boxShadow: '0 0 40px rgba(249, 115, 22, 0.6)' }
 				}
 			},
 			animation: {
